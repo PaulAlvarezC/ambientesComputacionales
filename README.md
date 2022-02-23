@@ -15,4 +15,8 @@ git add --all
 gir commit -m 'Primera version'
 
 git log
+https://github.com/PaulAlvarezC/ambientesComputacionales.git
 
+git remote add origin https://github.com/PaulAlvarezC/ambientesComputacionales.git
+
+git remote-v
