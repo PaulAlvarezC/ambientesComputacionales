@@ -23,4 +23,6 @@ git remote-v
 
 git push origin master
 
+
+git pull origin master
 Cambio desde github
