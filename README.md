@@ -20,3 +20,5 @@ https://github.com/PaulAlvarezC/ambientesComputacionales.git
 git remote add origin https://github.com/PaulAlvarezC/ambientesComputacionales.git
 
 git remote-v
+
+git push origin master
